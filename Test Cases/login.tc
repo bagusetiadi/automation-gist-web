@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>asd</name>
+   <name>login</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b352a218-fa27-49ea-a296-382300f67bc9</testCaseGuid>
