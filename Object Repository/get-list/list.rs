@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>login</name>
+   <name>list</name>
    <tag></tag>
-   <elementGuidId>5cbcf712-ec6c-4526-9113-0c879aa9639f</elementGuidId>
+   <elementGuidId>e66431de-5d73-4a28-ac6f-ff4993cefa5a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body/div/div/div[3]/a[1]</value>
+         <value>//a[contains(text(),'All gists')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

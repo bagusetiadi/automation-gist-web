@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>login</name>
+   <name>verify</name>
    <tag></tag>
-   <elementGuidId>5cbcf712-ec6c-4526-9113-0c879aa9639f</elementGuidId>
+   <elementGuidId>3e785314-79bd-4c00-8b31-f5a8a4ee98b2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body/div/div/div[3]/a[1]</value>
+         <value>//a[contains(text(),'Download ZIP')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

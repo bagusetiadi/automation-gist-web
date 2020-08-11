@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>login</name>
+   <name>confirm</name>
    <tag></tag>
-   <elementGuidId>5cbcf712-ec6c-4526-9113-0c879aa9639f</elementGuidId>
+   <elementGuidId>b2cbaab2-790e-4503-9d8b-01ba770a3b1b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body/div/div/div[3]/a[1]</value>
+         <value>//body//input[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

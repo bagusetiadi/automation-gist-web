@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>login</name>
+   <name>del</name>
    <tag></tag>
-   <elementGuidId>5cbcf712-ec6c-4526-9113-0c879aa9639f</elementGuidId>
+   <elementGuidId>fb7b09ed-bcf8-484f-8d44-41e60124042a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body/div/div/div[3]/a[1]</value>
+         <value>//button[@class='btn btn-sm btn-danger']</value>
       </entry>
       <entry>
          <key>BASIC</key>

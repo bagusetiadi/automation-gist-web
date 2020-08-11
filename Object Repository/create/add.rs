@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>login</name>
+   <name>add</name>
    <tag></tag>
-   <elementGuidId>5cbcf712-ec6c-4526-9113-0c879aa9639f</elementGuidId>
+   <elementGuidId>737b2c65-42dd-4385-8f3f-4b02a27e3f09</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body/div/div/div[3]/a[1]</value>
+         <value>//body/div/div/div[3]/a[1]//*[local-name()='svg']</value>
       </entry>
       <entry>
          <key>BASIC</key>

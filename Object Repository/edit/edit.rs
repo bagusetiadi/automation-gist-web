@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>login</name>
+   <name>edit</name>
    <tag></tag>
-   <elementGuidId>5cbcf712-ec6c-4526-9113-0c879aa9639f</elementGuidId>
+   <elementGuidId>5a9890f3-9ea0-4205-8861-6ad61da4432c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body/div/div/div[3]/a[1]</value>
+         <value>//body/div/div/main[@id='gist-pjax-container']/div/div/div/ul/li/a[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
